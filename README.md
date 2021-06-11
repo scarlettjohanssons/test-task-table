@@ -1,1 +1,1 @@
-[DEMO LINK](https://scarlettjohanssons.github.io/react_test_task_log_in/)
+[DEMO LINK](https://scarlettjohanssons.github.io/test-task-table/)
