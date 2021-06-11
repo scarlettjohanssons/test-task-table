@@ -1,0 +1,92 @@
+.table,
+.th,
+.td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.table {
+  margin-top: 50px;
+  width: 100%;
+}
+
+.th {
+  padding: 10px;
+  cursor: pointer;
+
+  &-time {
+    width: 15%;
+
+    @media(max-width: 1150px) {
+      & {
+        display: none;
+      }
+    }
+  }
+
+  &-title {
+    width: 100%;
+  }
+
+  &-domain {
+    width: 25%;
+
+    @media(max-width: 1150px) {
+      & {
+        display: none;
+      }
+    }
+  }
+}
+
+.th:hover {
+  background: #599eff;
+  font-size: 16px;
+}
+
+.td {
+  height: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  &-time {
+    @media(max-width: 1150px) {
+      & {
+        display: none;
+      }
+    }
+  }
+
+  &-title {
+    width: 100%;
+    position: relative;
+  }
+
+  &-domain {
+    @media(max-width: 1150px) {
+      & {
+        display: none;
+      }
+    }
+  }
+}
+
+.entry {
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.entry:hover {
+  background: #a5faf3;
+}
+
+.sort-by-date-mobile {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  display: none;
+
+  @media(max-width: 1150px) {
+    & {
+      display: inline-block;
+    }
+  }
+}
