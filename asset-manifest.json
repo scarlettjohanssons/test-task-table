@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/test-task-table.git/static/css/main.23f84336.chunk.css",
-    "main.js": "/test-task-table.git/static/js/main.aa33305e.chunk.js",
-    "main.js.map": "/test-task-table.git/static/js/main.aa33305e.chunk.js.map",
-    "runtime-main.js": "/test-task-table.git/static/js/runtime-main.42751afb.js",
-    "runtime-main.js.map": "/test-task-table.git/static/js/runtime-main.42751afb.js.map",
-    "static/js/2.a38988f3.chunk.js": "/test-task-table.git/static/js/2.a38988f3.chunk.js",
-    "static/js/2.a38988f3.chunk.js.map": "/test-task-table.git/static/js/2.a38988f3.chunk.js.map",
-    "index.html": "/test-task-table.git/index.html",
-    "static/css/main.23f84336.chunk.css.map": "/test-task-table.git/static/css/main.23f84336.chunk.css.map",
-    "static/js/2.a38988f3.chunk.js.LICENSE.txt": "/test-task-table.git/static/js/2.a38988f3.chunk.js.LICENSE.txt"
+    "main.css": "/test-task-table/static/css/main.23f84336.chunk.css",
+    "main.js": "/test-task-table/static/js/main.aa33305e.chunk.js",
+    "main.js.map": "/test-task-table/static/js/main.aa33305e.chunk.js.map",
+    "runtime-main.js": "/test-task-table/static/js/runtime-main.32b1eac2.js",
+    "runtime-main.js.map": "/test-task-table/static/js/runtime-main.32b1eac2.js.map",
+    "static/js/2.a38988f3.chunk.js": "/test-task-table/static/js/2.a38988f3.chunk.js",
+    "static/js/2.a38988f3.chunk.js.map": "/test-task-table/static/js/2.a38988f3.chunk.js.map",
+    "index.html": "/test-task-table/index.html",
+    "static/css/main.23f84336.chunk.css.map": "/test-task-table/static/css/main.23f84336.chunk.css.map",
+    "static/js/2.a38988f3.chunk.js.LICENSE.txt": "/test-task-table/static/js/2.a38988f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42751afb.js",
+    "static/js/runtime-main.32b1eac2.js",
     "static/js/2.a38988f3.chunk.js",
     "static/css/main.23f84336.chunk.css",
     "static/js/main.aa33305e.chunk.js"
